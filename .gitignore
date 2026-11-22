@@ -1,0 +1,16 @@
+# Competition data: not redistributable
+input/
+*.csv
+*.xlsx
+
+# Outputs and training logs
+output/
+catboost_info/
+*.zip
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+py_ag/
+.DS_Store
